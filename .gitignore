@@ -1,0 +1,10 @@
+# Ignore prompt and agent files
+*.txt
+
+# Ignore environment variables
+.env
+.env.*
+# Ignore build and dependency directories
+node_modules
+*.log
+dist
